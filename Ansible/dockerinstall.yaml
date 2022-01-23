@@ -2,7 +2,7 @@
 - name: Deploy docker container in ubuntu
   hosts: all
   gather_facts: false
-  remote_user: vagrant
+  remote_user: juli
   become: yes
 
   vars:
