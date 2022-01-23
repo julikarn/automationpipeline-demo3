@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    repo = "tutorbrijan/automationpipeline"
+    repo = "juludocker/automationpipeline"
   }
   agent any
   stages {
